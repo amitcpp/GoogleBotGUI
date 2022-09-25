@@ -1,6 +1,6 @@
 import tkinter as tk
 from PIL import Image, ImageTk
-import finalsearch
+import bot_search
 
 def search_query():
     search_query = search_var.get()
