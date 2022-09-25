@@ -9,3 +9,5 @@ To Download the exe file. Go to :- https://anonfiles.com/p0n5Ee97y3/Google_Bot_r
 5. Wait for a while depends on your query and google search results approx 10-15 minutes.
 6. After bot completes go to files where you extracted the bot.
 7. Find GoogleResult.csv 
+
+![googlebotss](https://user-images.githubusercontent.com/35372344/192126916-e6830700-e8a2-4bb6-ab91-ac25f4a6ea3e.png)
